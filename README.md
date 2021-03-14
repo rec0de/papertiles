@@ -24,5 +24,5 @@ Much higher resolution pngs (typically >4000x4000 px) are available on request f
 
 I wrote a ruby script to automatically download max-resolution wallpaper images from the Historical New England archive. Maybe you'll find that useful, so I included it in this repo. It requires `wget` and `imagemagick` to be installed and probably only runs on Linux without modification.
 
-Usage: `stitcher.rb [url] [target file]`  
+Usage: `ruby stitcher.rb [url] [target file]`  
 The url should be of the item page, e.g. `https://www.historicnewengland.org/explore/collections-access/gusn/178306/`. The `.png` suffix will be appended to the target file name.
