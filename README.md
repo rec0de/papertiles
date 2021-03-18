@@ -6,11 +6,11 @@ This is the backing repository behind [rec0de.net/var/papertiles](https://rec0de
 
 ## Contributing
 
-If you'd like to help add more backgrounds, you can browse a wallpaper archive of your choice (all currently available backgrounds are from the [Historical New England archive](https://www.historicnewengland.org/explore/collections-access/wallpaper/)), find something you like, and crop / edit it to tile seamlessly.  
-Please make sure the wallpaper pattern is in the public domain with reasonable certainty (e.g. made before 1890).  
+If you'd like to help add more backgrounds, you can browse a wallpaper archive of your choice (all currently available backgrounds are from the [Historical New England archive](https://www.historicnewengland.org/explore/collections-access/wallpaper/) and the [Smithsonian Institution](https://si.edu)), find something you like, and crop / edit it to tile seamlessly.  
+Please make sure the wallpaper pattern is in the public domain with reasonable certainty.  
 To submit a new image, just open an issue or a pull request here. Please include:
 
-- The tileable image, where the largest dimension is at least 1080px, preferrably in a lossless format such as png
+- The tileable image, where the largest dimension is, if possible, at least 1080px, preferrably in a lossless format such as png
 - A link to the source of the original wallpaper
 - How you'd like to be credited
 
