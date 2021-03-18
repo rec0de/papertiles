@@ -6,7 +6,7 @@ This is the backing repository behind [rec0de.net/var/papertiles](https://rec0de
 
 ## Contributing
 
-If you'd like to help add more backgrounds, you can browse a wallpaper archive of your choice (all currently available backgrounds are from the [Historical New England archive](https://www.historicnewengland.org/explore/collections-access/wallpaper/) and the [Smithsonian Institution](https://si.edu)), find something you like, and crop / edit it to tile seamlessly.  
+If you'd like to help add more backgrounds, you can browse a wallpaper archive of your choice (all currently available backgrounds are from the [Historic New England archive](https://www.historicnewengland.org/explore/collections-access/wallpaper/) and the [Smithsonian Institution](https://si.edu)), find something you like, and crop / edit it to tile seamlessly.  
 Please make sure the wallpaper pattern is in the public domain with reasonable certainty.  
 To submit a new image, just open an issue or a pull request here. Please include:
 
@@ -20,9 +20,9 @@ This repository contains only one version of each image in the png format. Image
 
 Much higher resolution pngs (typically >4000x4000 px) are available on request for most images.
 
-## The Historical New England Downloader
+## The Wallpaper Downloader
 
-I wrote a ruby script to automatically download max-resolution wallpaper images from the Historical New England archive. Maybe you'll find that useful, so I included it in this repo. It requires `wget` and `imagemagick` to be installed and probably only runs on Linux without modification.
+I wrote a ruby script to automatically download max-resolution wallpaper images from both the Historic New England and the Smithsonian archive. Maybe you'll find that useful, so I included it in this repo. It requires `wget` and `imagemagick` to be installed and probably only runs on Linux without modification.
 
 Usage: `ruby stitcher.rb [url] [target file]`  
 The url should be of the item page, e.g. `https://www.historicnewengland.org/explore/collections-access/gusn/178306/`. The `.png` suffix will be appended to the target file name.
