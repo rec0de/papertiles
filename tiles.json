@@ -3,90 +3,140 @@
 		"id": "49958",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/49958",
 		"accent": "#b85b44",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "probable"
 	},
 	{
 		"id": "65995",
-		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/65995",
+		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/65994",
 		"accent": "#7269b1",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "178356",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/178356",
 		"accent": "#aa8a61",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "178703",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/178703",
 		"accent": "#9b8970",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "179049",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/179049",
 		"accent": "#b66213",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "179051",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/179051",
 		"accent": "#935e63",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "179057",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/179057",
 		"accent": "#eaac56",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "179313",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/179313",
 		"accent": "#1da5c8",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "179345",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/179345",
 		"accent": "#232323",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "283733",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/283733",
 		"accent": "#9f373a",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "292789",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/292789",
 		"accent": "#2a5d85",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "dubious"
 	},
 	{
 		"id": "293296",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/293296",
 		"accent": "#696751",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "293305",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/293305",
 		"accent": "#cd6539",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "176928",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/176928",
 		"accent": "#783534",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
 	},
 	{
 		"id": "178414",
 		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/178414",
 		"accent": "#5b3b2c",
-		"addedby": "c"
+		"addedby": "c",
+		"copy": "clear"
+	},
+	{
+		"id": "1965-45-4-v",
+		"source": "https://www.si.edu/object/chndm_1965-45-4-v",
+		"accent": "#2a2a2a",
+		"addedby": "c",
+		"copy": "dubious"
+	},
+	{
+		"id": "1979-91-87",
+		"source": "https://www.si.edu/object/chndm_1979-91-87",
+		"accent": "#cd9038",
+		"addedby": "c",
+		"copy": "clear"
+	},
+	{
+		"id": "1977-31-2-a_g",
+		"source": "https://www.si.edu/object/chndm_1977-31-2-a_g",
+		"accent": "#979f53",
+		"addedby": "c",
+		"copy": "clear"
+	},
+	{
+		"id": "1973-32-1-a_b",
+		"source": "https://www.si.edu/object/chndm_1973-32-1-a_b",
+		"accent": "#8b2724",
+		"addedby": "c",
+		"copy": "clear"
+	},
+	{
+		"id": "1931-94-203",
+		"source": "https://www.si.edu/object/chndm_1931-94-203",
+		"accent": "#0773a3",
+		"addedby": "c",
+		"copy": "clear"
 	}
 ]
