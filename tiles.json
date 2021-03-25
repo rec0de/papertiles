@@ -138,5 +138,37 @@
 		"accent": "#0773a3",
 		"addedby": "c",
 		"copy": "clear"
+	},
+	{
+		"id": "1941-74-8-a_c",
+		"source": "https://www.si.edu/object/chndm_1941-74-8-a_c",
+		"accent": "#cb7555",
+		"addedby": "c",
+		"copy": "clear",
+		"source": "tiff"
+	},
+	{
+		"id": "1995-165-31",
+		"source": "https://www.si.edu/object/chndm_1995-165-31",
+		"accent": "#870505",
+		"addedby": "c",
+		"copy": "clear",
+		"source": "tiff"
+	},
+	{
+		"id": "1955-70-1",
+		"source": "https://www.si.edu/object/chndm_1955-70-1",
+		"accent": "#7f2022",
+		"addedby": "c",
+		"copy": "clear",
+		"source": "jpg"
+	},
+	{
+		"id": "1979-91-1183",
+		"source": "https://www.si.edu/object/chndm_1979-91-1183",
+		"accent": "#a0583d",
+		"addedby": "c",
+		"copy": "clear",
+		"source": "tiff"
 	}
 ]
