@@ -175,5 +175,12 @@
 		"addedby": "c",
 		"copy": "clear",
 		"srcfmt": "tiff"
+	},
+	{
+		"id": "292825",
+		"source": "https://www.historicnewengland.org/explore/collections-access/gusn/292825",
+		"accent": "#8a5a26",
+		"addedby": "c",
+		"copy": "probable"
 	}
 ]
